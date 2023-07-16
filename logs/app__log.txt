@@ -1,0 +1,95 @@
+INFO    2023-06-29 09:18:16,716 [main] eBanking  - Url is opened
+INFO    2023-06-29 09:32:58,416 [main] eBanking  - Url is opened
+INFO    2023-06-29 09:32:59,646 [main] eBanking  - Test Passed
+INFO    2023-06-29 09:33:29,738 [main] eBanking  - Url is opened
+INFO    2023-06-29 09:36:16,263 [main] eBanking  - Url is opened
+INFO    2023-06-29 21:47:06,951 [main] eBanking  - Url is opened
+INFO    2023-06-29 21:47:08,469 [main] eBanking  - Test Passed
+INFO    2023-06-29 21:47:08,480 [main] eBanking  - Driver closed
+INFO    2023-06-29 21:47:13,709 [main] eBanking  - Url is opened
+INFO    2023-06-29 21:47:19,522 [main] eBanking  - Login Successfull
+INFO    2023-06-29 21:47:31,782 [main] eBanking  - Driver closed
+INFO    2023-06-29 21:54:14,439 [main] eBanking  - Url is opened
+INFO    2023-06-29 21:54:16,282 [main] eBanking  - Driver closed
+INFO    2023-06-29 21:54:22,071 [main] eBanking  - Url is opened
+INFO    2023-06-29 21:54:30,082 [main] eBanking  - Login Successfull
+INFO    2023-06-29 21:54:39,307 [main] eBanking  - Driver closed
+INFO    2023-06-29 21:57:51,256 [main] eBanking  - Url is opened
+INFO    2023-06-29 21:57:53,102 [main] eBanking  - Driver closed
+INFO    2023-06-29 21:58:00,111 [main] eBanking  - Url is opened
+INFO    2023-06-29 21:58:07,429 [main] eBanking  - Login Successfull
+INFO    2023-06-29 21:58:18,317 [main] eBanking  - Driver closed
+INFO    2023-06-29 22:04:30,961 [main] eBanking  - Url is opened
+INFO    2023-06-29 22:04:33,873 [main] eBanking  - Driver closed
+INFO    2023-06-29 22:04:41,462 [main] eBanking  - Url is opened
+INFO    2023-06-29 22:04:48,776 [main] eBanking  - Login Successfull
+INFO    2023-06-29 22:04:58,958 [main] eBanking  - Driver closed
+INFO    2023-06-29 22:10:10,111 [main] eBanking  - Url is opened
+INFO    2023-06-29 22:10:11,974 [main] eBanking  - Driver closed
+INFO    2023-06-29 22:10:20,128 [main] eBanking  - Url is opened
+INFO    2023-06-29 22:10:32,553 [main] eBanking  - Driver closed
+INFO    2023-06-30 00:06:01,336 [main] eBanking  - Url is opened
+INFO    2023-06-30 00:06:03,351 [main] eBanking  - Driver closed
+INFO    2023-06-30 00:06:10,792 [main] eBanking  - Url is opened
+INFO    2023-06-30 00:06:17,155 [main] eBanking  - Login Successfull
+INFO    2023-06-30 00:06:31,231 [main] eBanking  - Driver closed
+INFO    2023-06-30 00:14:53,266 [main] eBanking  - Url is opened
+INFO    2023-06-30 00:14:55,106 [main] eBanking  - Driver closed
+INFO    2023-06-30 00:15:01,693 [main] eBanking  - Url is opened
+INFO    2023-06-30 00:15:09,819 [main] eBanking  - Login Successfull
+INFO    2023-06-30 00:15:22,289 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:04:20,699 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:04:22,280 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:05:50,240 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:05:51,915 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:07:51,804 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:07:53,395 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:08:52,619 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:08:54,085 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:09:00,302 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:09:06,179 [main] eBanking  - Login Successfull
+INFO    2023-07-01 22:09:16,027 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:13:16,636 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:13:18,136 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:13:24,119 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:13:29,106 [main] eBanking  - Login Successfull
+INFO    2023-07-01 22:13:41,347 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:14:41,720 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:14:43,367 [main] eBanking  - Driver closed
+INFO    2023-07-01 22:14:49,209 [main] eBanking  - Url is opened
+INFO    2023-07-01 22:14:55,429 [main] eBanking  - Login Successfull
+INFO    2023-07-01 22:15:04,034 [main] eBanking  - Driver closed
+INFO    2023-07-02 10:57:12,182 [main] eBanking  - Url is opened
+INFO    2023-07-02 10:57:17,405 [main] eBanking  - Driver closed
+INFO    2023-07-02 10:57:27,108 [main] eBanking  - Url is opened
+INFO    2023-07-02 10:57:35,500 [main] eBanking  - Login Successfull
+INFO    2023-07-02 10:57:45,752 [main] eBanking  - Driver closed
+INFO    2023-07-02 11:01:07,098 [main] eBanking  - Url is opened
+INFO    2023-07-02 11:01:08,912 [main] eBanking  - Driver closed
+INFO    2023-07-02 11:01:15,494 [main] eBanking  - Url is opened
+INFO    2023-07-02 11:01:26,409 [main] eBanking  - Login Successfull
+INFO    2023-07-02 11:01:36,561 [main] eBanking  - Driver closed
+INFO    2023-07-02 22:11:43,068 [main] eBanking  - Url is opened
+INFO    2023-07-02 22:11:44,942 [main] eBanking  - Driver closed
+INFO    2023-07-02 22:11:52,460 [main] eBanking  - Url is opened
+INFO    2023-07-02 22:11:58,778 [main] eBanking  - Login Successfull
+INFO    2023-07-02 22:12:12,438 [main] eBanking  - Driver closed
+INFO    2023-07-06 08:45:56,322 [main] eBanking  - Url is opened
+INFO    2023-07-06 08:45:58,007 [main] eBanking  - Driver closed
+INFO    2023-07-06 08:46:04,706 [main] eBanking  - Url is opened
+INFO    2023-07-06 08:46:10,758 [main] eBanking  - Login Successfull
+INFO    2023-07-06 08:46:22,004 [main] eBanking  - Driver closed
+INFO    2023-07-06 08:48:29,063 [main] eBanking  - Url is opened
+INFO    2023-07-06 08:48:30,592 [main] eBanking  - Driver closed
+INFO    2023-07-06 08:48:37,726 [main] eBanking  - Url is opened
+INFO    2023-07-06 08:48:44,767 [main] eBanking  - Login Successfull
+INFO    2023-07-06 08:48:53,542 [main] eBanking  - Driver closed
+INFO    2023-07-06 09:11:28,026 [main] eBanking  - Url is opened
+INFO    2023-07-06 09:11:29,541 [main] eBanking  - Driver closed
+INFO    2023-07-06 09:11:33,957 [main] eBanking  - Url is opened
+INFO    2023-07-06 09:11:39,293 [main] eBanking  - Login Successfull
+INFO    2023-07-06 09:11:48,090 [main] eBanking  - Driver closed
+INFO    2023-07-16 20:33:02,082 [main] eBanking  - Url is opened
+INFO    2023-07-16 20:33:02,645 [main] eBanking  - Driver closed
+INFO    2023-07-16 20:33:08,328 [main] eBanking  - Url is opened
+INFO    2023-07-16 20:33:24,870 [main] eBanking  - Driver closed
